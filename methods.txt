@@ -1,0 +1,16 @@
+title -> Ex: "ada lovelace" => "Ada Lovelace"
+
+upper
+lower
+
+<--------Remove whitespace---------->
+rstrip
+lstrip
+strip
+
+<------List Methods------>
+
+append(data)
+insert(position,data)
+
+del listname[index] -> Not a method
