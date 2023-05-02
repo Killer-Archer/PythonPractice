@@ -11,3 +11,11 @@ pizzas.append("Pepper Chicken")
 
 print(f"\nOriginal list of pizza = {pizzas}")
 print(f"\nCopy of pizzas list = {friend_pizzas}")
+
+print("\nThe First List of pizza's")
+for pizza in pizzas:
+	print(pizza)
+
+print("\nCopied list of pizza's")
+for pizza in friend_pizzas:
+	print(pizza)
